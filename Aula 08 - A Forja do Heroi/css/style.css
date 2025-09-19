@@ -54,20 +54,20 @@ body {
 
 /* --- O Feitiço da IMAGEM RESPONSIVA --- */
 .character-image-warrior {
-    width: 55%; /* A imagem NUNCA será mais larga que a carta */
+    width: auto; /* A imagem NUNCA será mais larga que a carta */
     height: 80%;   /* A altura se ajusta para não distorcer 👍 */
     border-radius: 8px;
     border: 2px solid #505070;
 }
 
 .character-image-monster {
-    width: 55%;
+    width: auto;
     height: 80%;   /* A altura se ajusta para não distorcer 👍 */
     border-radius: 8px;
     border: 2px solid #505070;
 }
 .character-image-mage {
-    width: 55%;
+    width: auto;
     height: 80%;   /* A altura se ajusta para não distorcer 👍 */
     border-radius: 8px;
     border: 2px solid #505070;
