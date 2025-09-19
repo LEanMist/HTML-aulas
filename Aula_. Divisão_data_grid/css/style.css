@@ -1,9 +1,9 @@
 html{
+    grid-area: auto;
     width: 198vh;
     height: 940px;
     border:#0a46ec;
     border-style: solid;
-    margin: auto;
 }
 body{
     width: 191vh;

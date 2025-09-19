@@ -1,0 +1,1 @@
+let mensagem = document.writeln("Olá, Mundo!");

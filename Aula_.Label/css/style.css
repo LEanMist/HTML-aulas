@@ -1,0 +1,12 @@
+.apresentacao {
+    width: 97.5vw;
+    height: 98vh;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 450%;
+    font-style: oblique;
+    color: #d32727;
+font-family: 'Lucida sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+}
