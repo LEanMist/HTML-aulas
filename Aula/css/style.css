@@ -1,0 +1,37 @@
+.body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    color: antiquewhite;
+    cursor: pointer;
+    font-family: sans-serif;
+    transition: background-color;
+}
+.corAzul{
+    background-color: blue;
+    border-radius: 50%;
+}
+
+.corVerde{
+    background-color: chartreuse;
+}
+
+.corVermelho{
+    background-color: brown;
+}
+
+.textBranco{
+    color: white;
+}
+
+.textPreto{
+    color: black;
+}

@@ -1,0 +1,27 @@
+/*
+#FFB8FD
+#2CF683
+#8332AC
+#FEDC97
+#EB5160
+*/
+:root{
+    --rosa-claro: #FFB8FD;
+    --verde-menta: #2CF683;
+    --purpura: #8332AC;
+    --bege: #FEDC97;
+    --vermelho-arosado: #EB5160;
+}
+html, body{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background: var(--vermelho-arosado);
+}
+header{
+    width: 100%;
+    height: 20vh;
+    background: linear-gradient(50deg, var(--purpura), var(--verde-menta));
+    text-align: center;
+}
