@@ -1,0 +1,52 @@
+html,body{
+    background-color: white;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    width: 50%;
+    height: 70%;
+    border-color: aqua;
+    border: 0.1px;
+    border-style: solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cfrm-login{
+    width: 60%;
+    height: 40%;
+    background-color: blanchedalmond;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.ctxt{
+    width: 90%;
+    min-width: 90%;
+    max-width: 100%;
+    height: 90%;
+    min-height: 10%;
+    background-color: azure;
+    border: 0.1px;
+    border-style: solid;
+    border-radius: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+
+.cmargin{
+    width: 100%;
+    min-width: 97%;
+    height: 10%;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
